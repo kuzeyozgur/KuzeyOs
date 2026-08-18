@@ -319,3 +319,15 @@ KuzeyOS is under active development.
 KuzeyOS is an experimental personal technology project.
 
 This repository is provided primarily for demonstration, documentation and architectural reference purposes.
+
+---
+
+# License
+
+**All rights reserved.**
+
+This repository is provided for demonstration, educational and architectural reference purposes only.
+
+No license is granted to copy, modify, redistribute, sublicense, sell, commercially use or incorporate the contents of this repository into another project without explicit written permission from the author.
+
+Public availability of this repository does not imply permission for reuse.
