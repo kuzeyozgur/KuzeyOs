@@ -1,0 +1,46 @@
+# Secrets
+.env
+.env.*
+!.env.example
+secrets/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Runtime / logs
+runtime/
+logs/
+events/
+backups/
+migration_data/
+
+# Face AI private data
+faces/
+**/faces/
+*sface_gallery.npz
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local configs / credentials
+mqtt_settings.json
+
+# Backups
+*.bak
+*.bak_*
+*.backup
+
+.DS_Store
+
+# Face AI generated identity data
+**/models/labels.json
+**/models/sface_gallery.npz
+
+# Legacy Face AI biometric training data
+**/models/trainer.yml
+**/models/trainer_backup.yml
