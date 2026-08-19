@@ -322,6 +322,33 @@ This repository is provided primarily for demonstration, documentation and archi
 
 ---
 
+## Screenshots
+
+### Overview
+
+![KuzeyOS Overview](docs/screenshots/overview.png)
+
+### Face AI
+
+![KuzeyOS Face AI](docs/screenshots/face-ai.png)
+
+### Sensors
+
+![KuzeyOS Sensors](docs/screenshots/sensors.png)
+
+### People
+
+![KuzeyOS People](docs/screenshots/people.png)
+
+### Events
+
+![KuzeyOS Events](docs/screenshots/events.png)
+
+### Settings
+
+![KuzeyOS Settings](docs/screenshots/settings.png)
+
+
 # License
 
 **All rights reserved.**
